@@ -1,0 +1,29 @@
+#message-el{
+font-style: italic;
+}
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 100px;
+    padding-right: 400px;
+    text-align: inherit;
+    color: rgb(101, 184, 184);
+    border-right: 5px;
+    border-right: 10px;
+    background-color: rgb(29, 31, 32);
+    margin-top: 50px;
+    
+
+}
+button{
+    background-color: rgb(151, 40, 40);
+    border-radius: 5px;
+    height: 30px;
+    color: rgb(206, 214, 210);
+    border: none;
+     
+}
+h3{
+    font-weight: bolder;
+    color: rgb(156, 65, 65);
+}
